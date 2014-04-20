@@ -149,7 +149,6 @@ public class WaitTool {
 	  * 
 	  * @return WebElement	the first WebElement using the given method, or null(if the timeout is reached)
 	  * 
-	  * @author Mark Collin 
 	  */
 	 public static WebElement waitForElementRefresh(WebDriver driver, final By by, 
 			                           int timeOutInSeconds) {
